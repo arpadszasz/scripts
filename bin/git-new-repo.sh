@@ -2,7 +2,7 @@
 # filename:    ~/bin/git-new-repo.sh
 # author:      Árpád Szász <arpad.szasz@plenum.ro>
 # modified:    2016-08-28
-# license:     The Artistic License 2.0
+# license:     The Artistic License 2.0 <http://www.perlfoundation.org/attachment/legal/artistic-2_0.txt>
 # description: Setup a minimal Git repository
 # usage:       ~/bin/git-new-repo.sh <'Repo description'>
 
